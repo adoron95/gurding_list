@@ -1,6 +1,7 @@
 "# gurding_list" 
 An application designed for a security company designed to prevent tampering with the placement of guards.
 The application receives constraints and requirements for a database and according to an algorithm saves a slot for the desired month.
+
 In a represented project a guard is saved by requests per month, dates on which he can save and dates on which he cannot save, requests are represented by a list. In addition, each guard has the number of times he has saved so that we can maintain an annual justice table so that the guards are balanced.
 Each guard has a phone number stored in the system so that we can attach a text message reminder to the guard in the future.
 
