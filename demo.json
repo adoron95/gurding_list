@@ -1,0 +1,206 @@
+{
+  "Doron": {
+    "fname": "Avichai",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 51,
+    "want": [],
+    "dontWant": []
+  },
+  "Cohen": {
+    "fname": "Shimi",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 51,
+    "want": [],
+    "dontWant": []
+  },
+  "Grinshpan": {
+    "fname": "david",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 51,
+    "want": [],
+    "dontWant": []
+  },
+  "Namen": {
+    "fname": "Elyshiv",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 51,
+    "want": [],
+    "dontWant": []
+  },
+  "Shmoel": {
+    "fname": "Yagel",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Bedro": {
+    "fname": "Semi",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Amar": {
+    "fname": "Oriel",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Shilo": {
+    "fname": "Amichai",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Mines": {
+    "fname": "Omer",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Veksler": {
+    "fname": "Shmoel",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Madyoni": {
+    "fname": "Sapir",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Hazen": {
+    "fname": "Shoki",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Shalva": {
+    "fname": "Khat",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Klein": {
+    "fname": "Eitamar",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Lerch": {
+    "fname": "Daniel",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Robacha": {
+    "fname": "David",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Hacohen": {
+    "fname": "Pinchas",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Margolis": {
+    "fname": "Yishai",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Elyasaf": {
+    "fname": "Akiva",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Gryner": {
+    "fname": "Alichai",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Kalikshtien": {
+    "fname": "Moshe",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [],
+    "dontWant": []
+  },
+  "Gamliel": {
+    "fname": "Matanya",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [
+      22,
+      2,
+      3
+    ],
+    "dontWant": [
+      9,
+      8,
+      7
+    ]
+  },
+  "Pertz": {
+    "fname": "Yonatan",
+    "phone": "00",
+    "keptMid": 57,
+    "keptEnd": 50,
+    "want": [
+      9
+    ],
+    "dontWant": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10
+    ]
+  }
+}
